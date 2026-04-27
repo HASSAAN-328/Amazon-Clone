@@ -12,8 +12,6 @@ This is a front-end clone of the Amazon homepage built using **HTML and CSS**. I
 
 👉 https://hassaan-328.github.io/Amazon-Clone/
 
-*(Replace this with your actual deployed link)*
-
 ---
 
 ## 📌 Features
@@ -89,5 +87,3 @@ Amazon-Clone/
 If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
-
-If you want, I can also **add screenshots, badges, or make it more attractive like professional portfolios**.
