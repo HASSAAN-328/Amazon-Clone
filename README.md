@@ -10,7 +10,7 @@ This is a front-end clone of the Amazon homepage built using **HTML and CSS**. I
 
 ## 🚀 Live Demo
 
-👉 [https://your-live-demo-link.com](https://your-live-demo-link.com)
+👉 https://hassaan-328.github.io/Amazon-Clone/
 
 *(Replace this with your actual deployed link)*
 
@@ -73,7 +73,7 @@ Amazon-Clone/
 6. Your site will be live at:
 
    ```
-   https://your-username.github.io/repository-name/
+   https://hassaan-328.github.io/Amazon-Clone/
    ```
 
 ---
