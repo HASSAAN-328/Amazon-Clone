@@ -4,6 +4,15 @@
   font-family: Arial, sans-serif;
 }
 
+.demo-banner {
+  background-color: #b00020;
+  color: #ffffff;
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 6px 12px;
+  font-weight: 600;
+}
+
 .nav-bar {
   height: 60px;
   background-color: #0f1111;
@@ -19,6 +28,9 @@
   height: 50px;
   width: 100px;
   margin-top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .border {
@@ -30,11 +42,14 @@
 }
 
 .logo {
-  background-image: url("logo1.png");
-  background-size: contain;
-  background-repeat: no-repeat;
   height: 100%;
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
 }
 
 .nav-address {
@@ -135,7 +150,7 @@ margin-left: 10px;
 font-size: 0.85rem;
 }
 .hero{
-background-image: url(logo2.jpg);
+background-color: #232f3e;
 height: 400px;
 background-size: cover;
 }
@@ -155,7 +170,7 @@ margin-top:30px;
 height: 300px;
 width: 250px;
 background-size: cover;
-
+background-color: #dddddd;
 margin-left: 25px;
 margin-top: 15px;
 }
@@ -206,10 +221,12 @@ justify-content: center;
 }
 .footerimg{
   height: 27px;
-  width: 76px;
- background-image: url("logo1.png");
-  background-size: contain;
-  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.9rem;
  margin-left: 5px;
 }
 .english{
